@@ -3,7 +3,7 @@
 ## Team Name: 
 61608 Group 4
 
-## Team Members:
+## Team Members (alphabetical):
 1. An, Ben [@benan03](https://github.com/benan03)
 2. Burt, Keegan[@keeganburt24](https://github.com/keeganburt24)
 3. Cheng, Hsin [@hc83710](https://github.com/hc83710)
@@ -68,12 +68,15 @@ In addition, we restricted the data to crime cases reported to the time range be
 
 
 ## Analysis and Results
-Our analysis of LAPD crime data from 2020 to 2023 focused on identifying trends in total crime across different areas of Los Angeles, understanding why crime increased during this period, and evaluating how trends changed over time. We found that total reported crime increased significantly between 2020 and 2022, peaking in 2022 across nearly all high-crime areas, including Central, Pacific, 77th Street, and Southwest. In 2023, crime declined sharply in all four regions.
+Our analysis of LAPD crime data from 2020 to 2024 focused on identifying trends in total crime across different areas of Los Angeles, understanding why crime increased during this period, and evaluating how trends changed over time. We found that total reported crime increased significantly between 2020 and 2022, peaking in 2022 across nearly all high-crime areas, including Central, Pacific, 77th Street, and Southwest. Some areas experience slight decline in crimes from 2022 tp 2023, then from 2023 to 2024, crime declined sharply in all four regions.
 
 This rise in crime from 2020 to 2022 can largely be explained by the social and economic disruptions caused by the COVID-19 pandemic. During this period, police resources were stretched thin, public stress and unemployment surged, and many community programs were halted—factors that are known to increase criminal activity. As society reopened in 2021 and 2022, more people returned to public spaces, increasing opportunities for certain crimes like theft and assault.
 
-The uniform decline in crime in 2023 likely reflects a return to normalcy, increased policing, and broader social recovery. Our findings support the idea that the spike in crime was a temporary result of pandemic-related instability, and not a long-term shift. Geospatial data also revealed that high-crime neighborhoods often aligned with areas of greater population density and economic hardship, reinforcing the importance of social context in crime prevention.
+The somewhat uniform decline in crime in 2023 likely reflects a return to normalcy, increased policing, and broader social recovery. Our findings support the idea that the spike in crime was a temporary result of pandemic-related instability, and not a long-term shift. Geospatial data also revealed that high-crime neighborhoods often aligned with areas of greater population density and economic hardship, reinforcing the importance of social context in crime prevention.
 
-Overall, our charts clearly show a consistent pattern across all four of the highest-crime areas: a steady increase in total crimes from 2020 through 2022, followed by a sharp decline in 2023. The Pacific area experienced the most dramatic peak in 2022, with over 17,000 reported cases, while the other areas followed similar trends. The parallel movement in all regions suggests a city-wide effect rather than isolated local changes. These visual trends reinforce the conclusion that external factors, like the pandemic and its aftermath as well as the defunding of the police, had a widespread impact on crime levels throughout Los Angeles.
+Overall, our charts clearly show a consistent pattern across all four of the highest-crime areas: a steady increase in total crimes from 2020 through 2022, followed by a slight decline in 2023. The Pacific area experienced the most dramatic peak in 2022, with over 17,000 reported cases, while the other areas followed similar trends. The parallel movement in all regions suggests a general effect rather than isolated local changes. These visual trends reinforce the conclusion that external factors, like the pandemic and its aftermath as well as the defunding of the police, had a widespread impact on crime levels throughout Los Angeles.
+
+Upon further analysis, we realized that the data in 2024 may be still incomplete to date due to LAPD's adoption of a new "Records Management System" mentioned on its webpage. It is possible that the department is still working on consolidating the new and old records for the year 2024, hence the dramatic decline of crime records for the year 2024. 
+
 ## Sources
 (LAPD OpenData. Crime Data from 2020 to Present. Data.gov, updated April 19, 2025, https://catalog.data.gov/dataset/crime-data-from-2020-to-present. )

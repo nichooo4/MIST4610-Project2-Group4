@@ -20,7 +20,7 @@ Through this information, we were able to analyze crime distribution and trends,
 ## Question 1
 Where should LAPD send more officers to reduce crime?
 
-![image](https://github.com/user-attachments/assets/f698af42-4959-4e09-add2-3657cc9b3c6c)
+![image](https://github.com/user-attachments/assets/f01fdc76-30c0-4eb4-8fdb-c5a42322c736)
 
 ![image](https://github.com/user-attachments/assets/3664b1c1-525c-4c03-b365-07ae19843162)
 
@@ -80,3 +80,6 @@ Upon further analysis, we realized that the data in 2024 may be still incomplete
 
 ## Sources
 (LAPD OpenData. Crime Data from 2020 to Present. Data.gov, updated April 19, 2025, https://catalog.data.gov/dataset/crime-data-from-2020-to-present. )
+
+## Tableau Packaged Workbook
+[Group4Project2-edited.twbx.zip](https://github.com/user-attachments/files/20008093/Group4Project2-edited.twbx.zip)
